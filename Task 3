@@ -6,10 +6,12 @@ public class Hw13 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner sc= new Scanner (System.in);
+		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the radius of the circle");
-		double r =sc.nextDouble();
-		double s=2*Math.PI*r;
-		System.out.println("S="+s);
-		
-				
+		double r = sc.nextDouble();
+		double s = 2 * Math.PI * r;
+		System.out.println("S=" + s);
+
+	}
+
+}
